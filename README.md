@@ -10,3 +10,4 @@ The party is fancy-dress
 ## CHANGE made on local computer
 this is to test the command line functionality of git
 this was added in the secondary branch
+I have changed this file locally and I am trying to upload it to GITHUB
